@@ -1,4 +1,4 @@
-## Setup Environment - Anaconda
+## Setup Environment 
 
 conda create --name main-ds python=3.12.5
 conda activate main-ds
@@ -14,6 +14,6 @@ pipenv shell
 pip install -r requirements.txt
 
 
-## Run steamlit app
+## Run steamlit
 streamlit run dashboard.py
 
